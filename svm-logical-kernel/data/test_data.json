@@ -1,2 +1,4 @@
-# progetto-icon24-25
-svm-logical-kernel
+[
+    ["parent(john, mary)", "parent(mary, alice)"],
+    ["parent(susan, jim)", "parent(jim, kate)"]
+]
